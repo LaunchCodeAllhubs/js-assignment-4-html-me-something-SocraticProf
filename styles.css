@@ -4,7 +4,7 @@ header {
     padding: 10px;
 }
 
-.primary {
+.primary-vert {
     display: flex;
     flex-direction: column;
 }
@@ -22,9 +22,8 @@ header {
     border: 3px solid blue;
     padding: 10px;
     text-align: center;
-    vertical-align: sub;
-
 }
+
 #car {
     border-radius: 20% 5% 35% 5%;
     width: 50vw;
