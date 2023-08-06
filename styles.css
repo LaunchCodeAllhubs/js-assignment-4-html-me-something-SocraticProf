@@ -1,1 +1,33 @@
-/* Write your CSS here! */
+header {
+    background-color: rebeccapurple;
+    color: white;
+    padding: 10px;
+}
+
+.primary {
+    display: flex;
+    flex-direction: column;
+}
+
+.secondary {
+    display: flex;
+    justify-content:space-between;
+}
+
+.primary {
+    background-color: white;
+}
+
+.text {
+    border: 3px solid blue;
+    padding: 10px;
+    text-align: center;
+    vertical-align: sub;
+
+}
+#car {
+    border-radius: 20% 5% 35% 5%;
+    width: 50vw;
+    padding: 8px;
+    background-color: red;
+}
