@@ -52,3 +52,8 @@ img {
     padding: 8px;
     background-color: red;
 }
+
+#quote {
+    color: rebeccapurple;
+    font-size: 22;
+}
