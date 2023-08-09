@@ -39,6 +39,7 @@ img {
     border: 3px solid blue;
     padding: 10px;
     text-align: center;
+    margin: 15px
 }
 
 #mainHeading {
@@ -56,4 +57,5 @@ img {
 #quote {
     color: rebeccapurple;
     font-size: 22;
+    padding: 5vw 15vw 5vw 15vw;
 }
