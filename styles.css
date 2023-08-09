@@ -9,6 +9,11 @@ header {
     padding: 10px;
 }
 
+footer {
+    background-color: blue;
+    padding: 10px;
+}
+
 img {
     border-radius: 20% 20% 20% 20%;
     width: 30vw;
@@ -39,7 +44,11 @@ img {
     border: 3px solid blue;
     padding: 10px;
     text-align: center;
-    margin: 15px
+    margin: 15px;
+}
+
+.funParagraph {
+    color: green;
 }
 
 #mainHeading {
